@@ -1,3 +1,3 @@
-# KagglePractice
+# PythonPractice
 
-source : https://kaggle-kr.tistory.com/32
+kaggle source : https://kaggle-kr.tistory.com/32
